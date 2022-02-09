@@ -27,6 +27,7 @@ if (ip2long($ip) == -1 || ip2long($ip) === FALSE) {
         <hr>
     </div>
     <?php
+}else{
     ?>
     <div class="center-block">
         <ul class="list-group list-group">
