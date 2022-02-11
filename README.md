@@ -1,2 +1,3 @@
 # ip-searcher
-Attention! To work, you need to download the database from the official website https://sypexgeo.net/ru/download/
+
+I am using api ip-api. Official site https://ip-api.com/docs/
