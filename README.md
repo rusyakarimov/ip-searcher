@@ -1,3 +1,2 @@
 # ip-searcher
-This is simple IP-SEARCHER.
-You can get information on IP.
+Attention! To work, you need to download the database from the official website https://sypexgeo.net/ru/download/
