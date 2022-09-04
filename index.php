@@ -4,7 +4,7 @@
     <section class="py-5 text-center container">
         <div class="row py-lg-5">
             <div class="col-lg-6 col-md-8 mx-auto">
-                <h1 class="fw-light">IP-SEARCHER</h1>
+                <h1 class="fw-light">Сервис поиска информации по IP</h1>
                 <p class="lead text-muted">
                     Данный сервис поможет вам узнать много полезной информации!
                 </p>
